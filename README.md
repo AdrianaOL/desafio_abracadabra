@@ -8,7 +8,7 @@
 - Devolución de sitios web estáticos
 ## Para correr el proyecto
 - Clonar o descaragar el repositorio
-- En la carpeta raiz abrir una terminal y jecutar `npm install`
+- En la carpeta raiz abrir una terminal y ejecutar `npm install`
 - Correr el servidor con el comando `node index`
 ## Grupo
 - Oviedo Adriana 
